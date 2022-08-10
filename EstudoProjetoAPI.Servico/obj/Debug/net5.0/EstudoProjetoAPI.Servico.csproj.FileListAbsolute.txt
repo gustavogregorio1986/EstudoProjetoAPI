@@ -1,3 +1,8 @@
+C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.csproj.AssemblyReference.cache
+C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.AssemblyInfoInputs.cache
+C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.AssemblyInfo.cs
+C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.csproj.CoreCompileInputs.cache
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\EstudoProjetoAPI.Servico.deps.json
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\EstudoProjetoAPI.Servico.dll
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\EstudoProjetoAPI.Servico.pdb
@@ -5,11 +10,6 @@ C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\E
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\EstudoProjetoAPI.Dominio.dll
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\EstudoProjetoAPI.Data.pdb
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\bin\Debug\net5.0\EstudoProjetoAPI.Dominio.pdb
-C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.csproj.AssemblyReference.cache
-C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.GeneratedMSBuildEditorConfig.editorconfig
-C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.AssemblyInfoInputs.cache
-C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.AssemblyInfo.cs
-C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.csproj.CoreCompileInputs.cache
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.csproj.CopyComplete
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\EstudoProjetoAPI.Servico.dll
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI.Servico\obj\Debug\net5.0\refint\EstudoProjetoAPI.Servico.dll
