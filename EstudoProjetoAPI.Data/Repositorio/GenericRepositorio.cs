@@ -14,9 +14,14 @@ namespace EstudoProjetoAPI.Data.Repositorio
     {
         private readonly EstudoProjetoAPIContexto _db;
 
+        public GenericRepositorio()
+        {
+            _db = new EstudoProjetoAPIContexto();
+        }
+
         public void Adicionar(T entidade)
         {
-            _db.Add(entidade);
+            _db.Set<T>().Add(entidade);
             Commit();
         }
 

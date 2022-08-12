@@ -1,4 +1,6 @@
-﻿namespace EstudoProjetoAPI.request
+﻿using System;
+
+namespace EstudoProjetoAPI.request
 {
     public class OcorrenciaRequest
     {
