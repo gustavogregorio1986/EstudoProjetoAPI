@@ -63,3 +63,4 @@ C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI\obj\Debug\net5.0\refint\Es
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI\obj\Debug\net5.0\EstudoProjetoAPI.pdb
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI\obj\Debug\net5.0\EstudoProjetoAPI.genruntimeconfig.cache
 C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI\obj\Debug\net5.0\ref\EstudoProjetoAPI.dll
+C:\EstudoProjetoAPI\EstudoProjetoAPI\EstudoProjetoAPI\obj\Debug\net5.0\EstudoProjetoAPI.MvcApplicationPartsAssemblyInfo.cs
