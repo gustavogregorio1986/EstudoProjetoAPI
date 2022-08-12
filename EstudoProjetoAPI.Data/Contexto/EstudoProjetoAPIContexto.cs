@@ -10,6 +10,11 @@ namespace EstudoProjetoAPI.Data.Contexto
 {
     public class EstudoProjetoAPIContexto : DbContext
     {
+        public EstudoProjetoAPIContexto()
+        {
+
+        }
+
         public EstudoProjetoAPIContexto(DbContextOptions options)
             :base(options)
         {
